@@ -26,10 +26,6 @@ elif operation == '-':
 
 else:
     print("You entered the in valid key")
-again()   
-
-def again():
-    print("If you want to continue,Enter y \n If you want to leave,Enter N")
     
     
     
